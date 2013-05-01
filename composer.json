@@ -1,5 +1,6 @@
 {
 	"name": "sgoguen/phplinq",
+	"version": "0.0.1",
 	"php": ">=5.4.0",
 	"dist": {
 		"url": "git@github.com:sgoguen/phplinq.git",
